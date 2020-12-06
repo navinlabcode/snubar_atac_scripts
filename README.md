@@ -6,6 +6,6 @@ This repository saves the scripts used in the manuscript xxx.
 
 As described in the 'Data pre-processing' part in the Methods section, the following 3 scripts were used to pre-process the sequencing reads of SNuBar for spatial/sample barcoding.
 
-1. `Snubar-ARC-script.sh`
-2. `Snubar-ATAC-fq-convert.pl`
-2. `Snubar-ATAC-script.sh`
+1. `Snubar-ATAC-fq-convert.pl`: Core function.
+2. `Snubar-ATAC-script.sh`: Script to process the SNuBar-ATAC data.
+2. `Snubar-ARC-script.sh`: Script to process the SNuBar-ARC data.
