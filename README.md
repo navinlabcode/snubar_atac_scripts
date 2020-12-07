@@ -10,7 +10,7 @@ As described in the 'Data pre-processing' part in the Methods section, the follo
 2. `Snubar-ATAC-script.sh`: Script to process the SNuBar-ATAC data.
 2. `Snubar-ARC-script.sh`: Script to process the SNuBar-ARC data.
 
-# Customized Signac
+# Signac with customization
 
 The exact Signac package used in the manuscript (https://github.com/Puriney/signac/tree/cd99cf2212320785f34dfd5db58e14b59e89edc5) had customized visualization based on the official Signac v1.0 (https://github.com/timoast/signac/tree/c53f27048b309fa67fe9879702ab330525130d60). 
 
