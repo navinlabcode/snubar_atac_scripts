@@ -1,0 +1,3 @@
+[submodule "prepare_demuxlet_snp"]
+	path = prepare_demuxlet_snp
+	url = https://github.com/Puriney/prepare_demuxlet_snp.git
