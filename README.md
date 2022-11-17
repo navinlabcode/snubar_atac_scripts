@@ -1,6 +1,10 @@
 # snubar_atac_scripts
 
-This repository saves the scripts used in the manuscript xxx. 
+This repository saves the scripts used in the manuscript. 
+
+Kaile Wang*, Zhenna Xiao*, Yun Yan*, Rui Ye, Min Hu, Shanshan Bai, Emi Sei, Yawei Qiao, Hui Chen, Bora Lim, Steven H Lin, Nicholas E Navin^. Simple oligonucleotide-based multiplexing of single-cell chromatin accessibility. Mol Cell . 2021 Oct 21;81(20):4319-4332.e10. doi: [10.1016/j.molcel.2021.09.026](https://doi.org/10.1016/j.molcel.2021.09.026).
+
+
 
 # SNuBar reads demultiplexing and conversion
 
